@@ -1,0 +1,11 @@
+# Ignorer la base de données SQLite
+db.sqlite3
+
+# Ignorer les fichiers et répertoires de cache Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignorer d'autres fichiers temporaires ou inutiles, par exemple :
+.DS_Store
+*.log
